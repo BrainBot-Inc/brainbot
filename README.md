@@ -1,4 +1,4 @@
-<h1 text-align='center'>Welcome to BrainBot!</h1>
+<h1 text-align='center'>Welcome to BrainBot Prefix to Slash!</h1>
 
 Here, You can sumbit any issues, bugs and/or suggestions to us in the issues tab!
 
